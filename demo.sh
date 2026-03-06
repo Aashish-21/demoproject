@@ -1,2 +1,2 @@
 echo"Welcome"
-echo"Wolrd"
+echo"World"
